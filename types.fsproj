@@ -11,7 +11,6 @@
 
   <ItemGroup>
     <PackageReference Include="Expecto" Version="8.9.1" />
-    <PackageReference Include="FSharp.Scanf" Version="3.1.3294.2201" />
   </ItemGroup>
 
 </Project>
